@@ -22,21 +22,26 @@ This repo is where I document the ones worth remembering.
 
 <br>
 
-## How it works
+## Scoring system
 
-Every day I browse the latest nominees and winners across Awwwards, FWA, CSSDA, and CSS Winner. Each site gets a score out of 10 and a one-line verdict based on design, creativity, technical execution, and originality.
+Same criteria as Awwwards. Each site is rated on 4 categories, scored out of 10.
 
-**Rating scale**
+| Category | What I evaluate |
+|----------|----------------|
+| **Design** | Visual quality, art direction, typography, color, layout, attention to detail |
+| **Usability** | Navigation, load time, responsiveness, accessibility, UX clarity |
+| **Creativity** | Originality, innovation, uniqueness of concept and execution |
+| **Content** | Quality of copy, storytelling, information architecture, purpose |
 
-| Score | Meaning |
-|:-----:|---------|
-| **10** | Masterpiece — sets a new standard |
-| **9** | Exceptional — award-worthy without question |
-| **8** | Excellent — strong execution with creative vision |
-| **7** | Good — solid work, minor missed opportunities |
-| **6** | Decent — competent but forgettable |
-| **5** | Average — nothing stands out |
-| **< 5** | Not reviewed — I only document sites worth seeing |
+**Overall** = weighted average of all 4 scores.
+
+| Overall | Meaning |
+|:-------:|---------|
+| **9.0+** | Masterpiece — sets a new standard |
+| **8.0 – 8.9** | Exceptional — award-worthy |
+| **7.0 – 7.9** | Strong — solid execution with creative vision |
+| **6.0 – 6.9** | Good — competent, some missed opportunities |
+| **< 6.0** | Not reviewed — I only document sites worth seeing |
 
 <br>
 
