@@ -24,16 +24,16 @@ This repo is where I document the ones worth remembering.
 
 ## Scoring system
 
-Same criteria as Awwwards. Each site is rated on 4 categories, scored out of 10.
+Same criteria and weighting as Awwwards.
 
-| Category | What I evaluate |
-|----------|----------------|
-| **Design** | Visual quality, art direction, typography, color, layout, attention to detail |
-| **Usability** | Navigation, load time, responsiveness, accessibility, UX clarity |
-| **Creativity** | Originality, innovation, uniqueness of concept and execution |
-| **Content** | Quality of copy, storytelling, information architecture, purpose |
+| Category | Weight | What I evaluate |
+|----------|:------:|----------------|
+| **Design** | 40% | Visual quality, art direction, typography, color, layout, attention to detail |
+| **Usability** | 30% | Navigation, load time, responsiveness, accessibility, UX clarity |
+| **Creativity** | 20% | Originality, innovation, uniqueness of concept and execution |
+| **Content** | 10% | Quality of copy, storytelling, information architecture, purpose |
 
-**Overall** = weighted average of all 4 scores.
+**Overall** = (Design x 0.4) + (Usability x 0.3) + (Creativity x 0.2) + (Content x 0.1)
 
 | Overall | Meaning |
 |:-------:|---------|
@@ -41,7 +41,7 @@ Same criteria as Awwwards. Each site is rated on 4 categories, scored out of 10.
 | **8.0 – 8.9** | Exceptional — award-worthy |
 | **7.0 – 7.9** | Strong — solid execution with creative vision |
 | **6.0 – 6.9** | Good — competent, some missed opportunities |
-| **< 6.0** | Not reviewed — I only document sites worth seeing |
+| **<= 5.9** | Not reviewed — I only document sites worth seeing |
 
 <br>
 
@@ -70,7 +70,7 @@ My project [fade.run](https://fade.run) received an Awwwards Honorable Mention a
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/cleanlystudio.fr-000000?style=flat-square&logo=safari&logoColor=white)](https://cleanlystudio.fr)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/cleanlystudio.pro-000000?style=flat-square&logo=safari&logoColor=white)](https://cleanlystudio.pro)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/@cleanlystudio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cleanlystudio)
 
 <br>
